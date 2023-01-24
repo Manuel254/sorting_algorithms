@@ -2,3 +2,4 @@ git.sh
 [0-9]*-main.c
 print_*.c
 bubble
+select
