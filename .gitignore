@@ -3,3 +3,4 @@ git.sh
 print_*.c
 bubble
 select
+quick
