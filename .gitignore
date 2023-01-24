@@ -1,2 +1,4 @@
 git.sh
-[0-9]*-main.py
+[0-9]*-main.c
+print_*.c
+bubble
